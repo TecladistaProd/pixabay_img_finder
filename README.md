@@ -5,4 +5,6 @@
 ### About Project
 This project not use default template of react, used my own template: https://github.com/TecladistaProd/simple-react-template
 
-This project was served to study and improve my react development skills and know other API
+This project was served to study and improve my react development skills and know other API.
+
+To see this project work visit https://tecladistaprod.github.io/pixabay_img_finder/build/
