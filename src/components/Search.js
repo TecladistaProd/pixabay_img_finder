@@ -12,7 +12,7 @@ export default class Search extends Component {
             searchText: '',
             amount: 15,
             apiUrl: 'https://pixabay.com/api',
-            apiK: '9529028-cf7ce783e638fe8136fd33a2a',
+            apiK: 'anything'/// PIXABAY API GO HERE
             images: []
         }
         this.onTextChange = (e) => {
